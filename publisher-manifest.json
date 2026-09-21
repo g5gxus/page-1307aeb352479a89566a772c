@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ee67700cf0a2acb4ac9842dc",
+  "owner": "g5gxus",
+  "repo": "page-1307aeb352479a89566a772c",
+  "title": "穿天猴(XrayPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1307aeb352479a89566a772c",
+      "a": "穿天猴(XrayPort)",
+      "b": "机场官网线路发布页",
+      "entity": "穿天猴(XrayPort)",
+      "brand": "穿天猴(XrayPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3ddd689346db96e6f38c4d5d929b7d2e5cd80e81f386754e0d51ec5455be2147",
+      "content": {
+        "primary_entity": "穿天猴(XrayPort)",
+        "keyword1": "穿天猴(XrayPort)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，穿天猴(XrayPort)提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB 不等，支持设备数覆盖 3 台至 20 台。旗舰版配备 IPLC 专线与流媒体解锁，团队版面向多设备与定制路由需求。",
+          "AI_HERO_SUBTITLE": "穿天猴三档订阅按需选",
+          "AI_HERO_INTRO": "穿天猴(XrayPort)面向日常与团队使用提供三档订阅，基础版适合轻量设备，旗舰版强化流媒体与游戏线路，团队版面向多设备与高流量场景。可按月或按年付费，根据在线设备数与月流量选择合适方案。",
+          "AI_VISUAL_TITLE": "穿天猴订阅方案概览",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 含 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 线路 300GB",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 支持 20 台",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路类型三个角度对比穿天猴的订阅选项。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可 20 台同时在线，多人或全屋设备优先考虑团队版。",
+          "AI_FEATURE_TITLE_2": "按流量周期选",
+          "AI_FEATURE_TEXT_2": "月付灵活，按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_3": "按线路偏好选",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线并针对游戏优化，团队版提供 VIP 高带宽节点，基础版使用普通线路节点池。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统选用对应订阅客户端，导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上差异明显，可按使用人数和场景直接匹配。",
+          "AI_GUIDE_TITLE": "三步选用流程",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再对比套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "明确使用需求",
+          "AI_STEP_TEXT_1": "统计需要同时在线的设备数量和每月大概流量，判断适合基础版、旗舰版还是团队版。",
+          "AI_STEP_TITLE_2": "核对适配信息",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备限制、线路类型和计费周期，确认与自己的场景匹配。",
+          "AI_STEP_TITLE_3": "配置订阅客户端",
+          "AI_STEP_TEXT_3": "依据设备对应的客户端文档导入订阅链接，完成节点选择与连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "穿天猴三个套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：单人两三台设备选基础版，五台左右且需要流媒体和游戏加速选旗舰版，二十台或多人共享选团队版。再对照月流量，100GB、300GB、1000GB 按实际用量匹配即可。",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_2": "在设备上安装对应的订阅客户端，复制订阅链接后粘贴到客户端的订阅设置中，更新节点列表后选择节点连接。具体步骤参考所用客户端的订阅导入文档。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版按月 ¥15、按年 ¥150，相当于十个月价格；旗舰版月付 ¥35、年付 ¥350，同样约十个月；团队版月付 ¥85、年付 ¥850。长期使用按年付更划算。",
+          "AI_FAQ_QUESTION_4": "一个订阅可以几台设备同时用？",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过限制的设备可能无法同时连接，需要升级套餐或减少在线设备数量。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线节点，针对游戏加速做了优化，同时提供全节点原生流媒体解锁。对延迟敏感的游戏或高码率视频场景，可以优先考虑旗舰版线路。",
+          "AI_CLOSING_TITLE": "选对套餐即刻连接",
+          "AI_CLOSING_TEXT": "按设备数和月流量挑选穿天猴套餐，在客户端导入订阅后即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rzkjb.cn",
+    "host": "rzkjb.cn"
+  },
+  "file_hashes": {
+    "index.html": "7085ac98d7cdf5f09f659e76c02258d1123b2fde3db4ad78c0f25a2b25729894",
+    "sitemap.xml": "e226d2c89c6a72ead7e491225a18c9feb29afc00cb6f0bfdc2e1b4c3cdb8d8b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f9cca29bd2919edb550804ab9073bb7c951a42b363ab5e9d1f5e18d1bf74374f",
+    "robots.txt": "3389adbda15f7abcbec845200592f210512d1516c4b12aa707af0c052ae4e4ea",
+    "a25e4296c79fe176d599d473ba93141e.txt": "32003abb78c74f88ee0702f1dda181119dbcc795a18d446ca248a05aba76cdc1"
+  },
+  "revision": "078db68fedcc40816717746e8629c767a0ae73d3c8078d633f3343900be448d3"
+}
